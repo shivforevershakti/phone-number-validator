@@ -1,0 +1,20 @@
+{
+  "name": "phone-number-validator-by-countrycode",
+  "version": "1.0.0",
+  "description": "This package will help JS developers to validate phone length on the basis of country.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/shivforevershakti/phone-number-validator.git)"
+  },
+  "keywords": [
+    "Phone",
+    "Number",
+    "Validator"
+  ],
+  "author": "Shiv@dev",
+  "license": "ISC"
+}
